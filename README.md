@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aswin and I'm a CS Student , from Kerala</h2>
+<h2 align="left">Hi 👋! My name is Aswin and I'm a Free Spirit , from Kerala</h2>
 
 ###
 
